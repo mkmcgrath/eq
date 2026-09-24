@@ -4,7 +4,7 @@ Render math equations right in your terminal, or save them as PNGs.
 
 `eq` takes a LaTeX expression (or a SymPy expression), typesets it with LaTeX, and displays it inline using Sixel graphics. It's a tiny POSIX shell script with no build step.
 
-![demo](assets/demo.gif)
+![demo](assets/eq_demo.GIF)
 
 - Note - In order for this program to work, you will need a terminal emulator with Sixel support. You can check https://www.arewesixelyet.com/ to see if your terminal emulator supports it.
 
