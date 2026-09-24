@@ -6,6 +6,8 @@ Render math equations right in your terminal, or save them as PNGs.
 
 ![demo](assets/demo.gif)
 
+- Note - In order for this program to work, you will need a terminal emulator with Sixel support. You can check https://www.arewesixelyet.com/ to see if your terminal emulator supports it.
+
 ## Usage
 
 ```sh
