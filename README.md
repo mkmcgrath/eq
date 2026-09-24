@@ -55,7 +55,7 @@ sudo dnf install texlive-scheme-basic texlive-standalone texlive-preview texlive
 ```
 
 **Arch**
-
+- NOTE - I had trouble getting it to work with the libsixel package available in pacman. I installed libsixel-git from the AUR and it worked fine after that.
 ```sh
 sudo pacman -S texlive-basic texlive-latex texlive-latexextra texlive-binextra libsixel python-sympy
 ```
